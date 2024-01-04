@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1704104276 source:d:\cli\cli -2\cli_cmd.c
+	"cli.h"
+	"cli_cmd.h"
+
+1704099743 d:\cli\cli -2\cli.h
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"ctype.h"
+
+1704100132 d:\cli\cli -2\cli_cmd.h
+
+1704104359 source:d:\cli\cli -2\main.c
+	"cli.h"
+
+1704100624 source:d:\cli\cli -2\cli.c
+	"cli.h"
+	"cli_cmd.h"
+
