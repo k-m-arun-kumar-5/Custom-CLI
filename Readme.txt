@@ -8,6 +8,7 @@ and for CLI engg user, password is engg and prompt is engg$.
 CLI commands are as follows:
 ============================
 CLI command                           description                                CLI user's level access
+--------------------------------------------------------------------------------------------------------
 login <CLI user level>              - login to <CLI user level>                  user, root, engg      
 set passwd <CLI user level>         - set passwd for <CLI user level>            root, engg 
 set system prompt <prompt>          - set prompt for current CLI user level      user, root, engg      
@@ -16,6 +17,7 @@ show mode list                      - display all CLI user levels.              
 exit application                    - exit from application                      user, root, engg  
 
 CLI command for numeric operations    description                                CLI user's level access
+--------------------------------------------------------------------------------------------------------
 <num1> + <num2>                     - numeric addition                           user, root, engg
 <num1> - <num2>                     - numeric subtraction                        user, root, engg  
 <num1> * <num2>                     - numeric multiplication                     user, root, engg  
