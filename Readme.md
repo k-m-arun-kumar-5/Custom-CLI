@@ -1,6 +1,6 @@
 Description :
 =============
-I, K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, in which I worked as a learning path and practiced some C programming such as custom Command Line Interface(CLI).
+custom Command Line Interface(CLI) with C Shell.
 There are 3 Levels of CLI users: Normal (user), configuration (root), and engineering (engg). These levels will be protected by a password. User mode has the least privileged access to RAS commands.
 Engg mode is the most privileged access to RAS commands. Default CLI user's password are as follows: for CLI user, the password is user and prompt is user>, for CLI root user, the password is the root, and the prompt is root# and for CLI engg user, the password is engg and prompt is engg$.
 
